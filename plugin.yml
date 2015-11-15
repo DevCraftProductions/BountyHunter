@@ -1,3 +1,4 @@
 name: BountyHunter By DevCraft
 version: 0.0.1
 description: Make money for kills on PocketMine servers!
+main: BountyHunter\BountyHunter
